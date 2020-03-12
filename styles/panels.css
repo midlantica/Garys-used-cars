@@ -1,0 +1,40 @@
+.dh-panel h4,
+.dh-panel h5 {
+  margin: 0.25em 0 0.5em;
+  font-weight: 500;
+}
+
+.dh-panel {
+  border: 1px solid var(--grey-100);
+  padding: 0.75em 1em;
+  margin-bottom: 1em;
+  margin: 0em 0.5em 0.85em;
+  background: white;
+  border-radius: 3px;
+}
+
+.dh-panel p {
+  color: var(--grey-400);
+  font-size: 1em;
+  font-weight: 300;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.dh-panel table {
+  width: 100%;
+}
+
+.dh-panel td {
+  color: var(--grey-400);
+  font-size: 0.83em;
+  font-weight: 100;
+  margin: 0;
+  line-height: 1.75;
+  vertical-align: top;
+  min-width: 9em;
+}
+
+.dh-panel td:first-of-type {
+  color: var(--grey-400);
+}
