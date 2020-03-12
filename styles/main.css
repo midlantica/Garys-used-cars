@@ -40,6 +40,7 @@ footer {
 .container {
   margin: 0 auto;
   padding: 0em;
+  width: 100%;
   min-width: 320px;
   height: 100vh;
   position: fixed;
@@ -50,4 +51,6 @@ main {
   padding: 5em 0 3em;
   overflow: scroll;
   overflow-x: hidden;
+  width: 100%;
+  margin: 0 auto;
 }
